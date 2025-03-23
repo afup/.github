@@ -6,8 +6,7 @@ L’[AFUP](https://afup.org), Association Française des Utilisateurs de PHP, es
 principaux objectifs consistent à **promouvoir le langage PHP et son ecosystème et contribuer à son développement auprès
 des professionnels et de la communauté.**
 
-Étant une association pour le PHP, nous aimons développer nos propres outils. Vous trouverez ici les différents projets
-open source de l'AFUP :
+Nous développons certains de nos outils. Vous trouverez ici les différents projets open source de l'AFUP :
 
 - [Le site afup.org](https://github.com/afup/web)
 - [Le baromètre des salaires](https://github.com/afup/barometre)
